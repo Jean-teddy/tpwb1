@@ -1,0 +1,207 @@
+#wraper{
+    width: 100%;
+    height: 400px;
+    margin:auto;
+    background-color: black;
+    position: absolute;
+    min-height: 100%;
+    top: 100px;
+}
+.circular-image{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 130px;
+    height:130px;
+    border-radius: 150%;
+    object-fit: cover;
+} 
+
+#gggggg{
+position: absolute;
+top: 0px;
+left:0px;
+}
+#j{
+    margin: 10px;
+    background-color: rgb(15, 6, 249);
+    border: 0px;
+    height: 9px;
+    width: 35%;
+    position: absolute;
+    top: 72px;
+    left: 0px;
+
+}
+.r{
+    margin: 10px;
+    background-color:rgb(240, 252, 21);
+    border: 0px;
+    position: relative;
+    top: 30px;
+    left: 35%;
+    height: 9px;
+    width: 35%;
+
+}
+#d{
+    margin: 10px;
+    background-color:red;
+    border: 0px;
+    position: relative;
+    top: 13px;
+    left: 880px;
+    height: 9px;
+    width: 30%;
+
+}
+
+
+#ytr{
+    background-color: rgb(5, 124, 145);
+    width: 100%;
+    height: 400px;
+}
+.fto1{
+    position: absolute;
+   top: 20px;
+
+}
+.fto2{
+    position: absolute;
+    top: 20px;
+    left: 300px;
+
+}
+
+.fto3{
+    position: absolute;
+    top: 20px;
+    left: 590px;
+
+}
+
+.fto4{
+    position: absolute;
+    top: 20px;
+    left: 950px;
+    
+
+}
+
+.fto5{
+    position:absolute;
+    top:400px;
+    left:10px;
+
+}
+
+.fto6{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+
+}
+
+.fto7{
+    position: absolute;
+    top: 400px;
+    left: 600px;
+
+}
+
+.fto8{
+    position: absolute;
+    top: 400px;
+    left: 950px;
+
+}
+.fto9{
+    position: absolute;
+    top: 800px;
+    left: 10px;
+
+}
+.fto10{
+    position: absolute;
+    top: 800px;
+    left: 290px;
+
+}
+.fto11{
+    position: absolute;
+    top: 800px;
+    left: 900px;
+
+}
+
+.fto12{
+    position: absolute;
+    top: 1170px;
+    left: 10px;
+
+
+}
+.fto13{
+    position: absolute;
+    top: 1170px;
+    left: 290px;
+    border-radius: 150%;
+
+}
+.fto14{
+    position: absolute;
+    top: 1170px;
+    left: 600px;
+
+}
+.fto15{
+    position: absolute;
+    top: 1170px;
+    left: 950px;
+
+}
+.fto16{
+    position: absolute;
+    top: 800px;
+    left: 650px;
+
+}
+.gera{ 
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(6, 246, 246);
+    font-size: 30px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.fto17{
+    position: absolute;
+    top: 1600px;
+    left: 20px;
+    border-radius: 16px;
+
+}
+
+.fto18{
+    position: absolute;
+    top: 1600px;
+    left: 300px;
+    border-radius: 12px
+}
+.fto19{
+    position: absolute;
+    top: 1600px;
+    left: 590px;
+}
+.fto20{
+    position: absolute;
+    top: 1400px;
+    left: 900px;
+}
